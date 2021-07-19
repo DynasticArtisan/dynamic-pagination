@@ -1,0 +1,24 @@
+.App {
+  background-color: #000;
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.item {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid #fff;
+}
+.title {
+  margin-left: 20px;
+  color: #fff;
+}
+.totalCount {
+  color: #fff;
+  font-size: 25px;
+  position: fixed;
+  top: 50px;
+  right: 50px;
+}
